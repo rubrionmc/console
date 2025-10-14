@@ -1,0 +1,5 @@
+#file: noinspection YAMLSchemaValidation
+name: ${projectDisplayName}
+main: ${projectGroup}.bungee.${projectDisplayName}Plugin
+version: ${projectVersion}
+authors: ${projectAuthors}

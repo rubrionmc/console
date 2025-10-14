@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rup-bungee/rub-console.bungee.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rup-bungee/rub-console.bungee.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rub-common/rub-console.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rub-common/rub-console.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rum-paper/rub-console.paper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rum-paper/rub-console.paper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rum-spigot/rub-console.spigot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rum-spigot/rub-console.spigot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rup-velocity/rub-console.velocity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rup-velocity/rub-console.velocity.main.iml" />
+    </modules>
+  </component>
+</project>
