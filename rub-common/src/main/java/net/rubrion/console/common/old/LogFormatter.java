@@ -1,4 +1,4 @@
-package net.rubrion.console.common;
+package net.rubrion.console.common.old;
 
 import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
@@ -124,10 +124,10 @@ public class LogFormatter implements Formater {
 
         for (String line : explicitLines) {
             if (isFirstLine) {
-                appendLine(result, prefix, line, isFirstLine);
+                appendLine(result, prefix, line, true);
                 isFirstLine = false;
             } else {
-                appendLine(result, continuationPrefix, line, isFirstLine);
+                appendLine(result, continuationPrefix, line, false);
             }
 
             if (line.length() > availableWidth) {

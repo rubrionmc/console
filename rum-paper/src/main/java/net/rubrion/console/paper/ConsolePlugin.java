@@ -1,6 +1,6 @@
 package net.rubrion.console.paper;
 
-import net.rubrion.console.common.ConsoleBootstrap;
+import net.rubrion.console.common.old.ConsoleBootstrap;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ConsolePlugin extends JavaPlugin {

@@ -1,4 +1,4 @@
-package net.rubrion.console.common;
+package net.rubrion.console.common.old;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Appender;

@@ -1,4 +1,4 @@
-package net.rubrion.console.common;
+package net.rubrion.console.common.old;
 
 import java.util.logging.LogRecord;
 
